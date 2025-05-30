@@ -1,0 +1,23 @@
+{
+  "name": "bitespeed_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@prisma/client": "^6.8.2",
+    "express": "^5.1.0",
+    "prisma": "^6.8.2"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.2",
+    "@types/node": "^22.15.27",
+    "typescript": "^5.8.3"
+  }
+}
